@@ -1,4 +1,4 @@
-export const API_URL = 'https://jorgeruiz20.onrender.com/api';
+export const API_URL = 'https://backendrobotech.onrender.com/api';
 
 export const ROLES = {
   ADMIN: 'ROLE_ADMIN',
